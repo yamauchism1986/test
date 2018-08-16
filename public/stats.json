@@ -1,0 +1,112 @@
+{
+  "assetsByChunkName": {
+    "path---tag-cute": [
+      "path---tag-cute-8a0e96e9604158d24f66.js",
+      "path---tag-cute-8a0e96e9604158d24f66.js.map"
+    ],
+    "path---tag-fancy": [
+      "path---tag-fancy-17706f3577c57dedcd48.js",
+      "path---tag-fancy-17706f3577c57dedcd48.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-64f48b89da2b601cd3dd.js",
+      "component---src-pages-index-js-64f48b89da2b601cd3dd.js.map"
+    ],
+    "path---a-walk-in-the-park": [
+      "path---a-walk-in-the-park-595291e846df4bce67ae.js",
+      "path---a-walk-in-the-park-595291e846df4bce67ae.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-54d5b7d9299de9c016ca.js",
+      "component---src-pages-contact-js-54d5b7d9299de9c016ca.js.map"
+    ],
+    "component---src-templates-page-js": [
+      "component---src-templates-page-js-1b9040f937377f0257a6.js",
+      "component---src-templates-page-js-1b9040f937377f0257a6.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---puppies-test": [
+      "path---puppies-test-69b46c6380a181b6b8c6.js",
+      "path---puppies-test-69b46c6380a181b6b8c6.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-dd9d51f9d432e1fec258.js",
+      "component---src-layouts-index-js-dd9d51f9d432e1fec258.js.map"
+    ],
+    "component---src-templates-tag-js": [
+      "component---src-templates-tag-js-e25efee494dc59f91a2c.js",
+      "component---src-templates-tag-js-e25efee494dc59f91a2c.js.map"
+    ],
+    "path---index": [
+      "path---index-a14e3f85013f252880af.js",
+      "path---index-a14e3f85013f252880af.js.map"
+    ],
+    "path---sailing-around-the-bay": [
+      "path---sailing-around-the-bay-0501879a48f0fa43ad92.js",
+      "path---sailing-around-the-bay-0501879a48f0fa43ad92.js.map"
+    ],
+    "path---tag-obedient": [
+      "path---tag-obedient-ee367bad89a2b694fbde.js",
+      "path---tag-obedient-ee367bad89a2b694fbde.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-bbedba2c6a7f12b7efda.js",
+      "component---src-pages-404-js-bbedba2c6a7f12b7efda.js.map"
+    ],
+    "commons": [
+      "commons-38f76b71cd302e01d2f6.js",
+      "build-js-styles.css",
+      "commons-38f76b71cd302e01d2f6.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tag-fun": [
+      "path---tag-fun-70022cd287d78d7350b3.js",
+      "path---tag-fun-70022cd287d78d7350b3.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-post-js": [
+      "component---src-templates-post-js-f94311d07a5a1715d7c8.js",
+      "component---src-templates-post-js-f94311d07a5a1715d7c8.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-9929b52d89c290a6a31d.js",
+      "build-js-styles.css",
+      "app-9929b52d89c290a6a31d.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---tag-play": [
+      "path---tag-play-3532a94d0e2256ec7c6b.js",
+      "path---tag-play-3532a94d0e2256ec7c6b.js.map"
+    ],
+    "path---beach-day": [
+      "path---beach-day-860b29c11254d161bf1d.js",
+      "path---beach-day-860b29c11254d161bf1d.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---about": [
+      "path---about-949c315a2609b8087595.js",
+      "path---about-949c315a2609b8087595.js.map"
+    ]
+  }
+}
