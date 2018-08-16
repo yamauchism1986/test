@@ -13,8 +13,8 @@
       "component---src-pages-index-js-64f48b89da2b601cd3dd.js.map"
     ],
     "path---a-walk-in-the-park": [
-      "path---a-walk-in-the-park-595291e846df4bce67ae.js",
-      "path---a-walk-in-the-park-595291e846df4bce67ae.js.map"
+      "path---a-walk-in-the-park-828d61400e40007ede5c.js",
+      "path---a-walk-in-the-park-828d61400e40007ede5c.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -32,10 +32,6 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
-    "path---puppies-test": [
-      "path---puppies-test-69b46c6380a181b6b8c6.js",
-      "path---puppies-test-69b46c6380a181b6b8c6.js.map"
-    ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-dd9d51f9d432e1fec258.js",
       "component---src-layouts-index-js-dd9d51f9d432e1fec258.js.map"
@@ -45,12 +41,12 @@
       "component---src-templates-tag-js-e25efee494dc59f91a2c.js.map"
     ],
     "path---index": [
-      "path---index-a14e3f85013f252880af.js",
-      "path---index-a14e3f85013f252880af.js.map"
+      "path---index-d6b702dc47d6668bc7a3.js",
+      "path---index-d6b702dc47d6668bc7a3.js.map"
     ],
     "path---sailing-around-the-bay": [
-      "path---sailing-around-the-bay-0501879a48f0fa43ad92.js",
-      "path---sailing-around-the-bay-0501879a48f0fa43ad92.js.map"
+      "path---sailing-around-the-bay-8075149e890402f2d4e7.js",
+      "path---sailing-around-the-bay-8075149e890402f2d4e7.js.map"
     ],
     "path---tag-obedient": [
       "path---tag-obedient-ee367bad89a2b694fbde.js",
@@ -87,9 +83,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-9929b52d89c290a6a31d.js",
+      "app-5de8157f16b1826b9dfa.js",
       "build-js-styles.css",
-      "app-9929b52d89c290a6a31d.js.map",
+      "app-5de8157f16b1826b9dfa.js.map",
       "build-js-styles.css.map"
     ],
     "path---tag-play": [
@@ -97,8 +93,8 @@
       "path---tag-play-3532a94d0e2256ec7c6b.js.map"
     ],
     "path---beach-day": [
-      "path---beach-day-860b29c11254d161bf1d.js",
-      "path---beach-day-860b29c11254d161bf1d.js.map"
+      "path---beach-day-d1a356e3338fcca4a652.js",
+      "path---beach-day-d1a356e3338fcca4a652.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
